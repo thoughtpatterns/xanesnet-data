@@ -1,0 +1,1 @@
+../txt/trans_00400.txt
